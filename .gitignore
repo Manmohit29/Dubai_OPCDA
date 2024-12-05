@@ -1,0 +1,17 @@
+# folders to ignore
+.venv
+build
+dist
+logs
+venv
+
+# files to ignore
+dubai_opcda.zip
+main.spec
+main.zip
+main_backup.py
+restart.py
+restart.spec
+test.py
+test.spec
+test2.py
